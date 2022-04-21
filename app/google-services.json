@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "1058241976672",
+    "project_id": "championsprotips",
+    "storage_bucket": "championsprotips.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058241976672:android:58858e2307bc125b64a605",
+        "android_client_info": {
+          "package_name": "com.example.championsfinal"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1058241976672-f7pc511vkb2b73pt3h3coendpt0sj6d5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.championsfinal",
+            "certificate_hash": "95f911cd7c377d8f5d43be8e54fc701a8d361995"
+          }
+        },
+        {
+          "client_id": "1058241976672-ciriue5p2f2g1b2ton0d1uvv652p7akc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA6uC02_3bNvYrNW7eqiETakH7Hdc64ko0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1058241976672-ciriue5p2f2g1b2ton0d1uvv652p7akc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

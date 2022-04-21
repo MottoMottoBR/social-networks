@@ -1,0 +1,50 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <string name="app_name" translatable="false">ChampionsFinal</string>
+    <string name="Bem_vindo_Saudacao" translatable="false">Receba as melhores dicas esportivas e \n aumente suas chances</string>
+    <string name="intro_msg_2" translatable="false">Nossos Especialista analizam os melhores \n mercados</string>
+    <string name="intro2_msg" translatable="false">Receba dicas que ajuda a aumentar seu ganho!</string>
+    <string name="tituloToolbar" translatable="false">Champions</string>
+    <string name="intro3_msg" translatable="false">Planos de assinaturas acesseivel, recupere \n seu investimento nos primeiros dias</string>
+    <string name="intro3_msg2" translatable="false">Membros Free tambem recebem dicas e ajuda da  \n comunidade</string>
+    <string name="crie_conta" translatable="false">"Comece a receber os melhores  palpites e aumente suas chances </string>
+    <string name="criar_conta_email" translatable="false">Cadastar com E-mail</string>
+    <string name="entrar_email" translatable="false">Entrar com E-mail</string>
+
+    <string name="facebook_app_id" translatable="false">210319214515045</string>
+    <string name="fb_login_protocol_scheme" translatable="false">fb210319214515045</string>
+
+
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label" translatable="false">First Fragment</string>
+    <string name="second_fragment_label" translatable="false">Second Fragment</string>
+    <string name="next" translatable="false">Next</string>
+    <string name="previous" translatable="false">Previous</string>
+    <string name="hello_first_fragment" translatable="false">Hello first fragment</string>
+    <string name="hello_second_fragment" translatable="false">Hello second fragment. Arg: %1$s</string>
+
+
+    <string name="home2" tools:ignore="MissingTranslation">Home</string>
+    <string name="search" tools:ignore="MissingTranslation">Search</string>
+    <string name="profile" tools:ignore="MissingTranslation">Profile</string>
+    <string name="notification" tools:ignore="MissingTranslation">Notify</string>
+    <string name="likes" tools:ignore="MissingTranslation">Favs</string>
+    <string name="happy" tools:ignore="MissingTranslation">Happy</string>
+    <string name="room" tools:ignore="MissingTranslation">Room</string>
+    <string name="restaurant" tools:ignore="MissingTranslation">Food</string>
+    <string name="shop" tools:ignore="MissingTranslation">Shop</string>
+    <string name="photos" tools:ignore="MissingTranslation">Pics</string>
+    <string name="call" tools:ignore="MissingTranslation">Call</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment" tools:ignore="MissingTranslation">fragment Pesquisa</string>
+    <string name="nova_postagem" translatable="false">Nova Postagem</string>
+    <string name="transmitir_ao_vivo" translatable="false">transmitir ao vivo</string>
+    <string name="video_do_reels">Video do Reels</string>
+    <string name="story">Story</string>
+    <string name="publicar">Publicar</string>
+    <string name="share">share</string>
+    <string name="pesquisa">Pesquisa</string>
+    <string name="home">Home</string>
+    <string name="notificacao">Notificacao</string>
+    <string name="perfil">Perfil</string>
+
+</resources>
